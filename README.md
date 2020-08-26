@@ -16,10 +16,12 @@
 Neste estudo de caso, faremos a comparação entre duas sequências de DNA: (1) ser humano; vs. (2) bactéria.
 <h3 align="center">
 <img alt="Logo" title="#logo" width="900px" src="https://github.com/andersonlx/analise-genomas-humanos-bacterias/blob/master/img/dna-h-x-b.svg">
+   Fonte: https://se.wikipedia.org/wiki/Fiila:Dna-base-flipping.svg
 </h3>
 
+
 ## Estrutura do DNA. 
-Fonte: https://se.wikipedia.org/wiki/Fiila:Dna-base-flipping.svg
+
 
 DNA é uma molécula presente em todos os seres vivos, que é responsável por armazenar as características hereditárias. Ela é composta por sequências de nucleotídeos, que podem de quatro tipos: adenina, timina, citosina ou guanina.
 
